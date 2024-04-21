@@ -1,0 +1,16 @@
+We would like to extend our heartfelt gratitude to all those who have supported and contributed to the development of the AI-based automatic translator for the ancient hieroglyphic language, enabling us to bridge the gap between this ancient script and modern English text.
+
+First and foremost, we would like to express our sincere appreciation to our research team and collaborators, whose dedication, expertise, and hard work were instrumental in bringing this project to fruition. Their insights and commitment to advancing the field of AI and linguistics have been invaluable.
+
+We are immensely thankful to the [Institution/University Name], which provided the necessary resources, infrastructure, and funding to support our research. This project would not have been possible without their continued support and encouragement.
+
+Our sincere thanks go to the scholars, Egyptologists, and linguists who generously shared their knowledge, expertise, and access to ancient hieroglyphic texts. Their guidance and insights were essential in refining our translation algorithms and ensuring the accuracy of our results.
+
+We are also grateful to the contributors of ancient hieroglyphic images and texts from various archives and collections. Your willingness to share these invaluable historical artifacts enabled us to train our AI models effectively and expand our dataset.
+
+Additionally, we would like to acknowledge the reviewers and peers who provided constructive feedback and valuable suggestions during the development and evaluation phases of the project. Your insights greatly contributed to the refinement and improvement of our translator.
+
+Finally, we extend our appreciation to the users and enthusiasts who have tested and provided feedback on our translator, helping us to refine its functionality and user experience.
+
+In conclusion, this project would not have been possible without the collective efforts, support, and expertise of the entire research community. We are truly grateful for the opportunity to work on this groundbreaking project, and we hope that our AI-based automatic translator for ancient hieroglyphic languages will contribute to a better understanding of our shared human history.
+

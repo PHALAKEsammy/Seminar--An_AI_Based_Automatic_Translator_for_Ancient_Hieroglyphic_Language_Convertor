@@ -1,0 +1,19 @@
+Recognition of Hieroglyphs:
+
+Gemert et al. [3] developed a solution for automatic recognition of Hieroglyphic text from images. They employed a saliency-based text-detection algorithm for glyph localization and used an advanced version of the Histogram of Oriented Gradients method (HOOSC) for appearance matching. However, their approach achieved only 83% glyph detection and 74% matching success.
+Barucii et al. [6] used ResNet-50 for glyph classification and introduced a novel architecture called Glyphnet. They achieved an impressive accuracy rate of 96%. Still, the dataset used in their work is not available for validation by other researchers.
+Hossam et al. [7] employed simple image processing techniques, such as the Canny edge detector and Region of Interest segmentation, for glyph detection and segmentation. They experimented with image matching algorithms and found that Histogram of Oriented Gradients (HOG) produced the best results, with an overall classification accuracy of 66.7%. However, their focus was primarily on image processing rather than linguistic translation.
+Translation of Hieroglyphs:
+
+Some research used Neural Machine Translation (NMT) to translate languages like Sumerian, which is another ancient language. However, due to the lack of language resources and full understanding, these translations often resulted in distorted English phrases, creating challenges for NMT models.
+Researchers attempted to translate the Ancient Egyptian language using both transliteration and Gardiner signs. Additionally, an open-source repository on GitHub under the "EgyptianTranslation" project contains a corpus of Egyptian transliterated hieroglyphs.
+Challenges:
+
+The literature survey points out that previous research focused on specific aspects of the problem, such as glyph recognition or translation, rather than tackling the entire end-to-end process.
+Challenges in working with Hieroglyphs include the scarcity of datasets, the complexity of the language, and the need for interdisciplinary collaboration between image processing and natural language processing experts.
+In summary, this literature survey provides an overview of previous research efforts related to the recognition and translation of ancient Egyptian Hieroglyphs. It highlights the progress made in both glyph recognition and translation tasks while emphasizing the challenges and limitations of existing approaches.
+
+
+
+
+

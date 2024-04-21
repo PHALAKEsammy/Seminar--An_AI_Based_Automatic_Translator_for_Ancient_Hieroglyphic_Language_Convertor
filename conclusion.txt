@@ -1,0 +1,39 @@
+The provided text describes a project focused on the development of a complete system for translating scanned hieroglyphic symbols into readable English. The project involved the utilization of various Machine Learning and Deep Learning algorithms and aimed to address the complex problem by dividing it into two sub-problems: glyph recognition in photos and subsequent translation into English. Here are the key points from the text:
+
+Project Overview:
+
+The project aimed to create a comprehensive system for translating hieroglyphic symbols into English using Machine Learning and Deep Learning techniques.
+The project involved the analysis of results to determine the best-performing models and data settings.
+
+
+Glyph Recognition:
+
+The project achieved significant advancements in glyph recognition.
+The proposed approach outperformed state-of-the-art results in the literature.
+The system was able to detect glyphs with a mean average precision (mAP) of 95% and an average recall (AR) of 75%.
+It achieved an 88.5% accuracy rate in glyph classification, surpassing the 66.6% average classification rate of recent research using the same dataset [7].
+
+Translation Task:
+
+The project also tackled the translation of hieroglyphs into English.
+It achieved a BLEU score of 59.19, indicating that the translation models outperformed their equivalents in the existing literature.
+
+Challenges and Future Work:
+
+The text acknowledges that higher translation scores could potentially be achieved with more extensive data cleansing.
+The project recognizes that obtaining additional data for a low-resource language like hieroglyphs can be challenging.
+The lack of variation in sentences in the textual corpus posed a challenge, leading to some level of bias in the results.
+
+
+
+NEW///////////
+ This project successfully proposed a comprehensive system for translating hieroglyphic symbols into readable English text. The system addressed two primary challenges: glyph recognition and translation.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+
+Datasets:
+
+A. Glyphs Dataset:
+
+The Morris Franken dataset is used, which contains 4,210 glyphs found on the walls inside the Pyramid of Unas. These glyphs represent Egyptian Hieroglyphs.
+Each glyph is labeled according to its Gardiner's code and has an image of dimensions 75x50 pixels.
+The dataset underwent augmentation for glyph detection and classification tasks.
+B. Textual Corpus:
+
+A hybrid dataset is created using two sources: Fayrose/Lauren Fay's dataset and the dataset obtained from Hugging Face datasets.
+The dataset includes ancient Egyptian phrases in transliteration format along with English and, in some cases, German translations.
+C. Dictionary:
+
+A dictionary obtained from the Ancient Egypt and Archaeology Web Site is used, containing Hieroglyph words with their Gardiner's translation and transliteration.
+Methodology:
+
+The project involves two major tasks: Hieroglyphic character recognition and Hieroglyphic to English language translation.
+
+A. Glyph Detection:
+
+R-CNN (Region-based Convolutional Neural Network) is employed for glyph detection. It finds region proposals, predicts objectness scores, estimates class probabilities, and corrects bounding box coordinates.
+Transfer learning from the ImageNet pre-trained weights is used.
+B. Glyph Classification:
+
+ResNet50, a deep convolutional neural network, is used for glyph classification.
+A hierarchical classification approach is introduced to handle the large number of labels (172).
+Siamese network, known for one-shot learning, is applied to address the small and unbalanced dataset issue.
+C. Segmentation and Mapping Using Dictionary:
+
+Two word segmentation methods are explored:
+Rule-based algorithms (forward and reverse maximum matching) based on a dictionary.
+Sub-word tokenization using Sentencepiece. Preprocessing is performed to handle issues with numbers and letters.
+D. Machine Translation:
+
+The transformer architecture is used for machine translation.
+Different dataset settings from the textual corpus are utilized.
+Challenges in machine translation include the need for a large dataset to achieve better results.
+Overall, the project involves a combination of computer vision techniques for glyph detection and classification, language processing for segmentation and mapping, and machine translation to convert Hieroglyphs into English. Various datasets and augmentation techniques are applied to improve model performance.
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+Significance of Hieroglyphs: The passage begins by highlighting that the ancient Egyptians used the Hieroglyphic language to record various aspects of their culture, including medicine, engineering, sciences, achievements, religious beliefs, and daily life. Understanding and preserving these scripts are seen as crucial for those interested in Egyptian history and civilization.
+
+Research Objective: The primary objective of the work is to decipher the Hieroglyphic language, making it more accessible to tourists and people interested in ancient Egyptian scripts. This is to be achieved through the automatic detection, recognition, and translation of hieroglyphs into English, eliminating the need for Egyptologists, who are both rare and expensive.
+
+Historical Context: The text briefly mentions the historical context of Hieroglyphs and how their knowledge was lost until Jean Champollion deciphered the Rosetta Stone.
+
+Characteristics of the Language: The Hieroglyphic language is described with several notable characteristics:
+
+Each symbol has a distinct sound, but the symbol's appearance may not relate to its meaning.
+Hieroglyphs can appear in various directions (horizontally and vertically).
+Determinations, which provide meaning to words, can lead to ambiguity in reading and understanding the language.
+Gardiner Code: Reference is made to the Gardiner code, a list introduced by Sir Alan Gardiner to simplify the understanding of Hieroglyphs. It categorizes common Egyptian glyphs, aiding in the interpretation of the language.
+
+Dataset: The passage mentions the challenge of gathering a suitable dataset for the research but notes the successful collection of scripts from the Unas pyramid, particularly the Pyramid Texts. This dataset contains 172 different symbols.
+
+Structure of the Paper: The passage outlines the structure of the paper, indicating that it will cover related work in Section II, details about datasets and data processing in Section III, methodologies for glyph classification and translation in Section IV, results in Section V, and concludes with future work suggestions in Section VI.
+
+In summary, this passage sets the context for a research project aimed at automatically deciphering ancient Egyptian Hieroglyphs, making them more accessible for tourists and enthusiasts. The text also briefly discusses the characteristics of the Hieroglyphic language and the use of the Gardiner code for simplification.
+
+
+
+
+
